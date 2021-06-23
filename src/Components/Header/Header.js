@@ -7,7 +7,7 @@ export default function Header() {
       <nav>
         <ul id="m_nav_list" className="m_nav menu__list">
           <li className="m_nav_item">
-            <a href="/">
+            <a href="#">
               <div class="btn-menu from-left">Home</div>
             </a>
           </li>
