@@ -1,8 +1,8 @@
 {
   "files": {
     "main.css": "/hello-natural-spirit/static/css/main.427c65c9.chunk.css",
-    "main.js": "/hello-natural-spirit/static/js/main.0712ecc4.chunk.js",
-    "main.js.map": "/hello-natural-spirit/static/js/main.0712ecc4.chunk.js.map",
+    "main.js": "/hello-natural-spirit/static/js/main.c8fdd5fb.chunk.js",
+    "main.js.map": "/hello-natural-spirit/static/js/main.c8fdd5fb.chunk.js.map",
     "runtime-main.js": "/hello-natural-spirit/static/js/runtime-main.85789af7.js",
     "runtime-main.js.map": "/hello-natural-spirit/static/js/runtime-main.85789af7.js.map",
     "static/js/2.8759ff3f.chunk.js": "/hello-natural-spirit/static/js/2.8759ff3f.chunk.js",
@@ -12,23 +12,23 @@
     "index.html": "/hello-natural-spirit/index.html",
     "static/css/main.427c65c9.chunk.css.map": "/hello-natural-spirit/static/css/main.427c65c9.chunk.css.map",
     "static/js/2.8759ff3f.chunk.js.LICENSE.txt": "/hello-natural-spirit/static/js/2.8759ff3f.chunk.js.LICENSE.txt",
-    "static/media/FullProduct1.e9caf8be.jpg": "/hello-natural-spirit/static/media/FullProduct1.e9caf8be.jpg",
-    "static/media/FullProduct2.dbdf8fe5.jpg": "/hello-natural-spirit/static/media/FullProduct2.dbdf8fe5.jpg",
-    "static/media/FullProduct3.16b66fbc.jpg": "/hello-natural-spirit/static/media/FullProduct3.16b66fbc.jpg",
-    "static/media/FullProduct4.95eef8bc.jpg": "/hello-natural-spirit/static/media/FullProduct4.95eef8bc.jpg",
-    "static/media/p1-square.4df2bb88.jpg": "/hello-natural-spirit/static/media/p1-square.4df2bb88.jpg",
-    "static/media/p1.1f38cd18.jpg": "/hello-natural-spirit/static/media/p1.1f38cd18.jpg",
-    "static/media/p2-square.fac8cd1f.jpg": "/hello-natural-spirit/static/media/p2-square.fac8cd1f.jpg",
-    "static/media/p2.e0afa04a.jpg": "/hello-natural-spirit/static/media/p2.e0afa04a.jpg",
-    "static/media/p3-square.d0bbe282.jpg": "/hello-natural-spirit/static/media/p3-square.d0bbe282.jpg",
-    "static/media/p3.87f76ea0.jpg": "/hello-natural-spirit/static/media/p3.87f76ea0.jpg",
-    "static/media/p4-square.6054f44d.jpg": "/hello-natural-spirit/static/media/p4-square.6054f44d.jpg",
-    "static/media/p4.b083ec27.jpg": "/hello-natural-spirit/static/media/p4.b083ec27.jpg"
+    "static/media/FullProduct1.8bcc3ef3.jpg": "/hello-natural-spirit/static/media/FullProduct1.8bcc3ef3.jpg",
+    "static/media/FullProduct2.1ae592a1.jpg": "/hello-natural-spirit/static/media/FullProduct2.1ae592a1.jpg",
+    "static/media/FullProduct3.7a330c7e.jpg": "/hello-natural-spirit/static/media/FullProduct3.7a330c7e.jpg",
+    "static/media/FullProduct4.6a88ed9b.jpg": "/hello-natural-spirit/static/media/FullProduct4.6a88ed9b.jpg",
+    "static/media/p1-square.b74e088c.jpg": "/hello-natural-spirit/static/media/p1-square.b74e088c.jpg",
+    "static/media/p1.0159fbb0.jpg": "/hello-natural-spirit/static/media/p1.0159fbb0.jpg",
+    "static/media/p2-square.cdb7381d.jpg": "/hello-natural-spirit/static/media/p2-square.cdb7381d.jpg",
+    "static/media/p2.62cfd0d6.jpg": "/hello-natural-spirit/static/media/p2.62cfd0d6.jpg",
+    "static/media/p3-square.084dc3ab.jpg": "/hello-natural-spirit/static/media/p3-square.084dc3ab.jpg",
+    "static/media/p3.fc2f38be.jpg": "/hello-natural-spirit/static/media/p3.fc2f38be.jpg",
+    "static/media/p4-square.4052a4bc.jpg": "/hello-natural-spirit/static/media/p4-square.4052a4bc.jpg",
+    "static/media/p4.281b517d.jpg": "/hello-natural-spirit/static/media/p4.281b517d.jpg"
   },
   "entrypoints": [
     "static/js/runtime-main.85789af7.js",
     "static/js/2.8759ff3f.chunk.js",
     "static/css/main.427c65c9.chunk.css",
-    "static/js/main.0712ecc4.chunk.js"
+    "static/js/main.c8fdd5fb.chunk.js"
   ]
 }
