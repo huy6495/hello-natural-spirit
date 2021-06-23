@@ -1,0 +1,34 @@
+{
+  "files": {
+    "main.css": "/hello-natural-spirit/static/css/main.427c65c9.chunk.css",
+    "main.js": "/hello-natural-spirit/static/js/main.0712ecc4.chunk.js",
+    "main.js.map": "/hello-natural-spirit/static/js/main.0712ecc4.chunk.js.map",
+    "runtime-main.js": "/hello-natural-spirit/static/js/runtime-main.85789af7.js",
+    "runtime-main.js.map": "/hello-natural-spirit/static/js/runtime-main.85789af7.js.map",
+    "static/js/2.8759ff3f.chunk.js": "/hello-natural-spirit/static/js/2.8759ff3f.chunk.js",
+    "static/js/2.8759ff3f.chunk.js.map": "/hello-natural-spirit/static/js/2.8759ff3f.chunk.js.map",
+    "static/js/3.1f765b10.chunk.js": "/hello-natural-spirit/static/js/3.1f765b10.chunk.js",
+    "static/js/3.1f765b10.chunk.js.map": "/hello-natural-spirit/static/js/3.1f765b10.chunk.js.map",
+    "index.html": "/hello-natural-spirit/index.html",
+    "static/css/main.427c65c9.chunk.css.map": "/hello-natural-spirit/static/css/main.427c65c9.chunk.css.map",
+    "static/js/2.8759ff3f.chunk.js.LICENSE.txt": "/hello-natural-spirit/static/js/2.8759ff3f.chunk.js.LICENSE.txt",
+    "static/media/FullProduct1.e9caf8be.jpg": "/hello-natural-spirit/static/media/FullProduct1.e9caf8be.jpg",
+    "static/media/FullProduct2.dbdf8fe5.jpg": "/hello-natural-spirit/static/media/FullProduct2.dbdf8fe5.jpg",
+    "static/media/FullProduct3.16b66fbc.jpg": "/hello-natural-spirit/static/media/FullProduct3.16b66fbc.jpg",
+    "static/media/FullProduct4.95eef8bc.jpg": "/hello-natural-spirit/static/media/FullProduct4.95eef8bc.jpg",
+    "static/media/p1-square.4df2bb88.jpg": "/hello-natural-spirit/static/media/p1-square.4df2bb88.jpg",
+    "static/media/p1.1f38cd18.jpg": "/hello-natural-spirit/static/media/p1.1f38cd18.jpg",
+    "static/media/p2-square.fac8cd1f.jpg": "/hello-natural-spirit/static/media/p2-square.fac8cd1f.jpg",
+    "static/media/p2.e0afa04a.jpg": "/hello-natural-spirit/static/media/p2.e0afa04a.jpg",
+    "static/media/p3-square.d0bbe282.jpg": "/hello-natural-spirit/static/media/p3-square.d0bbe282.jpg",
+    "static/media/p3.87f76ea0.jpg": "/hello-natural-spirit/static/media/p3.87f76ea0.jpg",
+    "static/media/p4-square.6054f44d.jpg": "/hello-natural-spirit/static/media/p4-square.6054f44d.jpg",
+    "static/media/p4.b083ec27.jpg": "/hello-natural-spirit/static/media/p4.b083ec27.jpg"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.85789af7.js",
+    "static/js/2.8759ff3f.chunk.js",
+    "static/css/main.427c65c9.chunk.css",
+    "static/js/main.0712ecc4.chunk.js"
+  ]
+}
